@@ -1,0 +1,10 @@
+---
+title: "Mi primer archivo en Git"
+format: html
+---
+**Mi primer archivo en Git**
+*Cosa más dificil dios mio santo!!*
+Para crear un nuevo repositorio tengo que entrar a Github y crearlo desde ahí para después clonarlo acá.
+
+
+
